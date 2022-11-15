@@ -1,0 +1,18 @@
+{
+  "busname": "Sonu",
+  "busroute": "Via Chamakhandi",
+  "bustrip": "2",
+  "endTime": "2022-04-25T03:40:09.449Z",
+  
+  "starTime": "2022-04-25T03:40:09.449Z",
+  "stops": [
+    {
+      "arrivalTime": "2022-04-25T03:40:09.449Z",
+      "departureTime": "2022-04-25T03:40:09.449Z",
+      "haltduration": 5,
+      "id": 0,
+      "stopname": "Chatrapur",
+      "stopsequence": 0
+    }
+  ]
+}

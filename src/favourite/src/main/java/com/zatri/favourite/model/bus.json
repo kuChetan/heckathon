@@ -1,0 +1,1225 @@
+{
+  "buses":[{
+      "deviceId": "NA",
+      "name": "OD02BT7857",
+      "type": "Express",
+      "vehicleNumber": "OD02BT7857",
+      "contactNumber": "+91 8908085566",
+      "serviceType": "NA",
+      "website": "https://zatri.in/",
+      "bookingSite": "https://zatri.in/",
+      "runningStatus": "running",
+      "fare": 0,
+      "departureTime": "00:00",
+      "arrivalTime": "00:00",
+      "routes": [
+        {
+          "routeId": "rt10340",
+          "routeName": "CUTTACK TO BERHAMPUR VIA. CHHATRAPUR",
+          "arrivalTime": "00:00",
+          "departureTime": "00:00",
+          "distance": 0,
+          "fare": 0,
+          "origin": {
+            "stopId": "KP100209",
+            "stopName": "BERHAMPUR",
+            "district": "Kendrapara",
+            "stopDescription": "Bhubaneswar (MC),Khurda",
+            "stopSequence": 0,
+            "type": "Bus Stand",
+            "location": null,
+            "arrivalTime": "13:20",
+            "departureTime": "13:50"
+          },
+          "destination": {
+            "stopId": "CT100148",
+            "stopName": "CUTTACK (BADAMBADI)",
+            "district": "Cuttack",
+            "stopDescription": "Cuttack (MC),Cuttack",
+            "stopSequence": 0,
+            "type": "Bus Stand",
+            "location": null,
+            "arrivalTime": "19:35",
+            "departureTime": "00:00"
+          },
+          "trips": [
+            {
+              "tripId": "trip00272",
+              "type": "UP",
+              "arrivalTime": "07:25",
+              "departureTime": "13:20",
+              "origin": {
+                "stopId": "CT100148",
+                "stopName": "CUTTACK (BADAMBADI)",
+                "district": "Cuttack",
+                "stopDescription": "Cuttack (MC),Cuttack",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "00:00",
+                "departureTime": "07:25"
+              },
+              "destination": {
+                "stopId": "KP100209",
+                "stopName": "BERHAMPUR",
+                "district": "Kendrapara",
+                "stopDescription": "Garadpur,Kendrapara",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "13:20",
+                "departureTime": "13:50"
+              },
+              "stops": [
+                {
+                  "stopId": "CT100148",
+                  "stopName": "CUTTACK (BADAMBADI)",
+                  "district": "Cuttack",
+                  "stopDescription": "Cuttack (MC),Cuttack",
+                  "stopSequence": 0,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "00:00",
+                  "departureTime": "07:25"
+                },
+                {
+                  "stopId": "KD100169",
+                  "stopName": "BHUBANESWAR (BARAMUNDA)",
+                  "district": "Khurda",
+                  "stopDescription": "Bhubaneswar (MC),Khurda",
+                  "stopSequence": 1,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "08:30",
+                  "departureTime": "09:00"
+                },
+                {
+                  "stopId": "KD100241",
+                  "stopName": "KHURDA BY PASS",
+                  "district": "Khurda",
+                  "stopDescription": "Khurda,Khurda",
+                  "stopSequence": 2,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "09:25",
+                  "departureTime": "09:30"
+                },
+                {
+                  "stopId": "CT100473",
+                  "stopName": "RAMESWAR",
+                  "district": "Cuttack",
+                  "stopDescription": "Salipur,Cuttack",
+                  "stopSequence": 3,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "09:48",
+                  "departureTime": "09:56"
+                },
+                {
+                  "stopId": "NG100164",
+                  "stopName": "BALUGAON",
+                  "district": "Nayagarh",
+                  "stopDescription": "Nayagarh,Nayagarh",
+                  "stopSequence": 4,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "10:38",
+                  "departureTime": "10:40"
+                },
+                {
+                  "stopId": "GM100319",
+                  "stopName": "KESHPUR",
+                  "district": "Ganjam",
+                  "stopDescription": "Khalikote,Ganjam",
+                  "stopSequence": 5,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "11:05",
+                  "departureTime": "11:07"
+                },
+                {
+                  "stopId": "BS100280",
+                  "stopName": "CHHATRAPUR",
+                  "district": "Balasore",
+                  "stopDescription": "Nilagiri,Balasore",
+                  "stopSequence": 6,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "12:25",
+                  "departureTime": "12:30"
+                },
+                {
+                  "stopId": "KP100209",
+                  "stopName": "BERHAMPUR",
+                  "district": "Kendrapara",
+                  "stopDescription": "Garadpur,Kendrapara",
+                  "stopSequence": 7,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "13:20",
+                  "departureTime": "13:50"
+                }
+              ],
+              "daysOfService": null,
+              "category": null,
+              "seats": [],
+              "fare": 0,
+              "status": "NA"
+            },
+            {
+              "tripId": "trip00273",
+              "type": "DOWN",
+              "arrivalTime": "13:50",
+              "departureTime": "19:35",
+              "origin": {
+                "stopId": "KP100209",
+                "stopName": "BERHAMPUR",
+                "district": "Kendrapara",
+                "stopDescription": "Bhubaneswar (MC),Khurda",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "13:20",
+                "departureTime": "13:50"
+              },
+              "destination": {
+                "stopId": "CT100148",
+                "stopName": "CUTTACK (BADAMBADI)",
+                "district": "Cuttack",
+                "stopDescription": "Cuttack (MC),Cuttack",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "19:35",
+                "departureTime": "00:00"
+              },
+              "stops": [
+                {
+                  "stopId": "KP100209",
+                  "stopName": "BERHAMPUR",
+                  "district": "Kendrapara",
+                  "stopDescription": "Garadpur,Kendrapara",
+                  "stopSequence": 0,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "13:20",
+                  "departureTime": "13:50"
+                },
+                {
+                  "stopId": "BS100280",
+                  "stopName": "CHHATRAPUR",
+                  "district": "Balasore",
+                  "stopDescription": "Nilagiri,Balasore",
+                  "stopSequence": 1,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "14:10",
+                  "departureTime": "14:45"
+                },
+                {
+                  "stopId": "GM100319",
+                  "stopName": "KESHPUR",
+                  "district": "Ganjam",
+                  "stopDescription": "Khalikote,Ganjam",
+                  "stopSequence": 2,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "16:03",
+                  "departureTime": "16:05"
+                },
+                {
+                  "stopId": "NG100164",
+                  "stopName": "BALUGAON",
+                  "district": "Nayagarh",
+                  "stopDescription": "Nayagarh,Nayagarh",
+                  "stopSequence": 3,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "16:30",
+                  "departureTime": "16:40"
+                },
+                {
+                  "stopId": "CT100473",
+                  "stopName": "RAMESWAR",
+                  "district": "Cuttack",
+                  "stopDescription": "Salipur,Cuttack",
+                  "stopSequence": 4,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "17:20",
+                  "departureTime": "17:22"
+                },
+                {
+                  "stopId": "KD100241",
+                  "stopName": "KHURDA BY PASS",
+                  "district": "Khurda",
+                  "stopDescription": "Khurda,Khurda",
+                  "stopSequence": 5,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "17:40",
+                  "departureTime": "17:45"
+                },
+                {
+                  "stopId": "KD100169",
+                  "stopName": "BHUBANESWAR (BARAMUNDA)",
+                  "district": "Khurda",
+                  "stopDescription": "Bhubaneswar (MC),Khurda",
+                  "stopSequence": 6,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "18:10",
+                  "departureTime": "18:30"
+                },
+                {
+                  "stopId": "CT100148",
+                  "stopName": "CUTTACK (BADAMBADI)",
+                  "district": "Cuttack",
+                  "stopDescription": "Cuttack (MC),Cuttack",
+                  "stopSequence": 7,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "19:35",
+                  "departureTime": "00:00"
+                }
+              ],
+              "daysOfService": null,
+              "category": null,
+              "seats": [],
+              "fare": 0,
+              "status": "NA"
+            }
+          ]
+        }
+      ],
+      "seatLayout": null,
+      "active": false,
+      "verified": false,
+      "busImage": null,
+      "daysOfService": null
+    },
+    {
+      "deviceId": "NA",
+      "name": "OD02AD3235",
+      "type": "Ordinary",
+      "vehicleNumber": "OD02AD3235",
+      "contactNumber": "+91 8908085566",
+      "serviceType": "NA",
+      "website": "https://zatri.in/",
+      "bookingSite": "https://zatri.in/",
+      "runningStatus": "running",
+      "fare": 0,
+      "departureTime": "00:00",
+      "arrivalTime": "00:00",
+      "routes": [
+        {
+          "routeId": "rt10221",
+          "routeName": "Gopalpur To Puri Via. Paralakhemundi, Berhampur, Bhubaneswar & Back",
+          "arrivalTime": "00:00",
+          "departureTime": "00:00",
+          "distance": 0,
+          "fare": 0,
+          "origin": {
+            "stopId": "PR100154",
+            "stopName": "PURI",
+            "district": "Puri",
+            "stopDescription": "Puri (M),Puri",
+            "stopSequence": 0,
+            "type": "Bus Stand",
+            "location": null,
+            "arrivalTime": "06:17",
+            "departureTime": "20:00"
+          },
+          "destination": {
+            "stopId": "GM100263",
+            "stopName": "GOPALPUR",
+            "district": "Ganjam",
+            "stopDescription": "Gopalpur NAC,Ganjam",
+            "stopSequence": 0,
+            "type": "Bus Stand",
+            "location": null,
+            "arrivalTime": "07:04",
+            "departureTime": "00:00"
+          },
+          "trips": [
+            {
+              "tripId": "trip00004",
+              "type": "UP",
+              "arrivalTime": "19:30",
+              "departureTime": "06:17",
+              "origin": {
+                "stopId": "BS100113",
+                "stopName": "GOPALPUR",
+                "district": "Balasore",
+                "stopDescription": "Bahanaga,Balasore",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "00:00",
+                "departureTime": "19:30"
+              },
+              "destination": {
+                "stopId": "PR100154",
+                "stopName": "PURI",
+                "district": "Puri",
+                "stopDescription": "Puri (M),Puri",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "06:17",
+                "departureTime": "20:00"
+              },
+              "stops": [
+                {
+                  "stopId": "BS100113",
+                  "stopName": "GOPALPUR",
+                  "district": "Balasore",
+                  "stopDescription": "Bahanaga,Balasore",
+                  "stopSequence": 0,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "00:00",
+                  "departureTime": "19:30"
+                },
+                {
+                  "stopId": "GP100159",
+                  "stopName": "PARALAKHEMUNDI",
+                  "district": "Gajapati",
+                  "stopDescription": "Parlakhemundi (M),Gajapati",
+                  "stopSequence": 1,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "19:33",
+                  "departureTime": "19:38"
+                },
+                {
+                  "stopId": "stp4703",
+                  "stopName": "LANGIPADAR",
+                  "district": null,
+                  "stopDescription": null,
+                  "stopSequence": 2,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "20:11",
+                  "departureTime": "20:13"
+                },
+                {
+                  "stopId": "GP100165",
+                  "stopName": "RAMAGIRI",
+                  "district": "Gajapati",
+                  "stopDescription": "R. Udayagiri,Gajapati",
+                  "stopSequence": 3,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "20:58",
+                  "departureTime": "21:00"
+                },
+                {
+                  "stopId": "RG100135",
+                  "stopName": "CHANDRAGIRI",
+                  "district": "Rayagada",
+                  "stopDescription": "Kashipur,Rayagada",
+                  "stopSequence": 4,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "21:45",
+                  "departureTime": "21:47"
+                },
+                {
+                  "stopId": "GP100135",
+                  "stopName": "LUHAGUDI",
+                  "district": "Gajapati",
+                  "stopDescription": "Mohana,Gajapati",
+                  "stopSequence": 5,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "22:22",
+                  "departureTime": "22:24"
+                },
+                {
+                  "stopId": "GM100251",
+                  "stopName": "DIGAPAHANDI",
+                  "district": "Ganjam",
+                  "stopDescription": "Digapahandi NAC,Ganjam",
+                  "stopSequence": 6,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "23:09",
+                  "departureTime": "23:14"
+                },
+                {
+                  "stopId": "KP100209",
+                  "stopName": "BERHAMPUR",
+                  "district": "Kendrapara",
+                  "stopDescription": "Garadpur,Kendrapara",
+                  "stopSequence": 7,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "23:59",
+                  "departureTime": "00:05"
+                },
+                {
+                  "stopId": "GM100206",
+                  "stopName": "CHHATRAPUR",
+                  "district": "Ganjam",
+                  "stopDescription": "Chhatrapur NAC,Ganjam",
+                  "stopSequence": 8,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "00:40",
+                  "departureTime": "00:42"
+                },
+                {
+                  "stopId": "KD100169",
+                  "stopName": "BHUBANESWAR (BARAMUNDA)",
+                  "district": "Khurda",
+                  "stopDescription": "Bhubaneswar (MC),Khurda",
+                  "stopSequence": 9,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "04:27",
+                  "departureTime": "04:30"
+                },
+                {
+                  "stopId": "PR100153",
+                  "stopName": "PIPILI",
+                  "district": "Puri",
+                  "stopDescription": "Pipili NAC,Puri",
+                  "stopSequence": 10,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "05:15",
+                  "departureTime": "05:17"
+                },
+                {
+                  "stopId": "PR100154",
+                  "stopName": "PURI",
+                  "district": "Puri",
+                  "stopDescription": "Puri (M),Puri",
+                  "stopSequence": 11,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "06:17",
+                  "departureTime": "20:00"
+                }
+              ],
+              "daysOfService": null,
+              "category": null,
+              "seats": [],
+              "fare": 0,
+              "status": "NA"
+            },
+            {
+              "tripId": "trip00005",
+              "type": "DOWN",
+              "arrivalTime": "20:00",
+              "departureTime": "07:04",
+              "origin": {
+                "stopId": "PR100154",
+                "stopName": "PURI",
+                "district": "Puri",
+                "stopDescription": "Puri (M),Puri",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "06:17",
+                "departureTime": "20:00"
+              },
+              "destination": {
+                "stopId": "GM100263",
+                "stopName": "GOPALPUR",
+                "district": "Ganjam",
+                "stopDescription": "Gopalpur NAC,Ganjam",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "07:04",
+                "departureTime": "00:00"
+              },
+              "stops": [
+                {
+                  "stopId": "PR100154",
+                  "stopName": "PURI",
+                  "district": "Puri",
+                  "stopDescription": "Puri (M),Puri",
+                  "stopSequence": 0,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "06:17",
+                  "departureTime": "20:00"
+                },
+                {
+                  "stopId": "PR100153",
+                  "stopName": "PIPILI",
+                  "district": "Puri",
+                  "stopDescription": "Pipili NAC,Puri",
+                  "stopSequence": 1,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "21:00",
+                  "departureTime": "21:02"
+                },
+                {
+                  "stopId": "KD100169",
+                  "stopName": "BHUBANESWAR (BARAMUNDA)",
+                  "district": "Khurda",
+                  "stopDescription": "Bhubaneswar (MC),Khurda",
+                  "stopSequence": 2,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "21:47",
+                  "departureTime": "22:20"
+                },
+                {
+                  "stopId": "GM100206",
+                  "stopName": "CHHATRAPUR",
+                  "district": "Ganjam",
+                  "stopDescription": "Chhatrapur NAC,Ganjam",
+                  "stopSequence": 3,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "02:05",
+                  "departureTime": "02:07"
+                },
+                {
+                  "stopId": "KP100209",
+                  "stopName": "BERHAMPUR",
+                  "district": "Kendrapara",
+                  "stopDescription": "Garadpur,Kendrapara",
+                  "stopSequence": 4,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "02:42",
+                  "departureTime": "02:44"
+                },
+                {
+                  "stopId": "GM100251",
+                  "stopName": "DIGAPAHANDI",
+                  "district": "Ganjam",
+                  "stopDescription": "Digapahandi NAC,Ganjam",
+                  "stopSequence": 5,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "03:29",
+                  "departureTime": "03:31"
+                },
+                {
+                  "stopId": "GP100135",
+                  "stopName": "LUHAGUDI",
+                  "district": "Gajapati",
+                  "stopDescription": "Mohana,Gajapati",
+                  "stopSequence": 6,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "04:16",
+                  "departureTime": "04:18"
+                },
+                {
+                  "stopId": "RG100135",
+                  "stopName": "CHANDRAGIRI",
+                  "district": "Rayagada",
+                  "stopDescription": "Kashipur,Rayagada",
+                  "stopSequence": 7,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "04:53",
+                  "departureTime": "04:55"
+                },
+                {
+                  "stopId": "GP100165",
+                  "stopName": "RAMAGIRI",
+                  "district": "Gajapati",
+                  "stopDescription": "R. Udayagiri,Gajapati",
+                  "stopSequence": 8,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "05:40",
+                  "departureTime": "05:42"
+                },
+                {
+                  "stopId": "stp4703",
+                  "stopName": "LANGIPADAR",
+                  "district": null,
+                  "stopDescription": null,
+                  "stopSequence": 9,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "06:27",
+                  "departureTime": "06:29"
+                },
+                {
+                  "stopId": "GP100159",
+                  "stopName": "PARALAKHEMUNDI",
+                  "district": "Gajapati",
+                  "stopDescription": "Parlakhemundi (M),Gajapati",
+                  "stopSequence": 10,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "06:59",
+                  "departureTime": "07:01"
+                },
+                {
+                  "stopId": "GM100263",
+                  "stopName": "GOPALPUR",
+                  "district": "Ganjam",
+                  "stopDescription": "Gopalpur NAC,Ganjam",
+                  "stopSequence": 11,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "07:04",
+                  "departureTime": "00:00"
+                }
+              ],
+              "daysOfService": null,
+              "category": null,
+              "seats": [],
+              "fare": 0,
+              "status": "NA"
+            }
+          ]
+        }
+      ],
+      "seatLayout": null,
+      "active": false,
+      "verified": false,
+      "busImage": null,
+      "daysOfService": null
+    },
+    {
+      "name": "OD02AC0902",
+      "type": "Express",
+      "vehicleNumber": "OD02AC0902",
+      "contactNumber": "+91 8908085566",
+      "deviceId": "NA",
+      "serviceType": "NA",
+      "website": "https://zatri.in/",
+      "bookingSite": "https://zatri.in/",
+      "runningStatus": "running",
+      "fare": 0,
+      "departureTime": "00:00",
+      "arrivalTime": "00:00",
+      "routes": [
+        {
+          "routeId": "rt10217",
+          "routeName": "Rourkela To Berhampur Via. Sundergarh, Phulbani, Bhanjanagar & Back",
+          "arrivalTime": "00:00",
+          "departureTime": "00:00",
+          "distance": 0,
+          "fare": 0,
+          "origin": {
+            "stopId": "KP100209",
+            "stopName": "BERHAMPUR",
+            "district": "Kendrapara",
+            "stopDescription": "Garadpur,Kendrapara",
+            "stopSequence": 0,
+            "type": "Bus Stand",
+            "location": null,
+            "arrivalTime": "08:00",
+            "departureTime": "17:05"
+          },
+          "destination": {
+            "stopId": "SG100427",
+            "stopName": "ROURKELA",
+            "district": "Sundargarh",
+            "stopDescription": "Rourkela (M),Sundargarh",
+            "stopSequence": 0,
+            "type": "Bus Stand",
+            "location": null,
+            "arrivalTime": "07:20",
+            "departureTime": "00:00"
+          },
+          "trips": [
+            {
+              "tripId": "trip00002",
+              "type": "UP",
+              "arrivalTime": "17:30",
+              "departureTime": "08:00",
+              "origin": {
+                "stopId": "SG100427",
+                "stopName": "ROURKELA",
+                "district": "Sundargarh",
+                "stopDescription": "Rourkela (M),Sundargarh",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "00:00",
+                "departureTime": "17:30"
+              },
+              "destination": {
+                "stopId": "KP100209",
+                "stopName": "BERHAMPUR",
+                "district": "Kendrapara",
+                "stopDescription": "Garadpur,Kendrapara",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "08:00",
+                "departureTime": "17:05"
+              },
+              "stops": [
+                {
+                  "stopId": "SG100427",
+                  "stopName": "ROURKELA",
+                  "district": "Sundargarh",
+                  "stopDescription": "Rourkela (M),Sundargarh",
+                  "stopSequence": 0,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "00:00",
+                  "departureTime": "17:30"
+                },
+                {
+                  "stopId": "SG100454",
+                  "stopName": "SUNDARGARH",
+                  "district": "Sundargarh",
+                  "stopDescription": "Sundargarh (M),Sundargarh",
+                  "stopSequence": 1,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "20:05",
+                  "departureTime": "20:20"
+                },
+                {
+                  "stopId": "JG100128",
+                  "stopName": "JHARSUGUDA",
+                  "district": "Jharsuguda",
+                  "stopDescription": "Jharsuguda (M),Jharsuguda",
+                  "stopSequence": 2,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "21:05",
+                  "departureTime": "21:15"
+                },
+                {
+                  "stopId": "SP100260",
+                  "stopName": "SAMBALPUR",
+                  "district": "Sambalpur",
+                  "stopDescription": "Sambalpur (M),Sambalpur",
+                  "stopSequence": 3,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "22:15",
+                  "departureTime": "22:40"
+                },
+                {
+                  "stopId": "SP100239",
+                  "stopName": "RAIRAKHOL",
+                  "district": "Sambalpur",
+                  "stopDescription": "Redhakhol NAC,Sambalpur",
+                  "stopSequence": 4,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "23:55",
+                  "departureTime": "23:59"
+                },
+                {
+                  "stopId": "AG100136",
+                  "stopName": "KIAKATA",
+                  "district": "Angul",
+                  "stopDescription": "Athamallik,Angul",
+                  "stopSequence": 5,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "00:30",
+                  "departureTime": "00:35"
+                },
+                {
+                  "stopId": "BD100116",
+                  "stopName": "BOUDH",
+                  "district": "Boudh",
+                  "stopDescription": "Boudh NAC,Boudh",
+                  "stopSequence": 6,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "00:45",
+                  "departureTime": "01:10"
+                },
+                {
+                  "stopId": "KM100213",
+                  "stopName": "PHULABANI",
+                  "district": "Kandhamal",
+                  "stopDescription": "Phulbani NAC,Kandhamal",
+                  "stopSequence": 7,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "02:50",
+                  "departureTime": "03:00"
+                },
+                {
+                  "stopId": "KM100247",
+                  "stopName": "TIKABALI",
+                  "district": "Kandhamal",
+                  "stopDescription": "Tikabali,Kandhamal",
+                  "stopSequence": 8,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "03:55",
+                  "departureTime": "04:00"
+                },
+                {
+                  "stopId": "KM100164",
+                  "stopName": "KALINGA",
+                  "district": "Kandhamal",
+                  "stopDescription": "G.Udayagiri,Kandhamal",
+                  "stopSequence": 9,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "04:30",
+                  "departureTime": "04:35"
+                },
+                {
+                  "stopId": "GM100176",
+                  "stopName": "BHANJANAGAR",
+                  "district": "Ganjam",
+                  "stopDescription": "Bhanjanagar NAC,Ganjam",
+                  "stopSequence": 10,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "05:35",
+                  "departureTime": "05:45"
+                },
+                {
+                  "stopId": "GM100101",
+                  "stopName": "ASKA",
+                  "district": "Ganjam",
+                  "stopDescription": "Asika NAC,Ganjam",
+                  "stopSequence": 11,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "06:45",
+                  "departureTime": "06:55"
+                },
+                {
+                  "stopId": "KP100209",
+                  "stopName": "BERHAMPUR",
+                  "district": "Kendrapara",
+                  "stopDescription": "Garadpur,Kendrapara",
+                  "stopSequence": 12,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "08:00",
+                  "departureTime": "17:05"
+                }
+              ],
+              "daysOfService": null,
+              "category": null,
+              "seats": [],
+              "fare": 0,
+              "status": "NA"
+            },
+            {
+              "tripId": "trip00003",
+              "type": "DOWN",
+              "arrivalTime": "17:05",
+              "departureTime": "07:20",
+              "origin": {
+                "stopId": "KP100209",
+                "stopName": "BERHAMPUR",
+                "district": "Kendrapara",
+                "stopDescription": "Garadpur,Kendrapara",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "08:00",
+                "departureTime": "17:05"
+              },
+              "destination": {
+                "stopId": "SG100427",
+                "stopName": "ROURKELA",
+                "district": "Sundargarh",
+                "stopDescription": "Rourkela (M),Sundargarh",
+                "stopSequence": 0,
+                "type": "Bus Stand",
+                "location": null,
+                "arrivalTime": "07:20",
+                "departureTime": "00:00"
+              },
+              "stops": [
+                {
+                  "stopId": "KP100209",
+                  "stopName": "BERHAMPUR",
+                  "district": "Kendrapara",
+                  "stopDescription": "Garadpur,Kendrapara",
+                  "stopSequence": 0,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "08:00",
+                  "departureTime": "17:05"
+                },
+                {
+                  "stopId": "GM100101",
+                  "stopName": "ASKA",
+                  "district": "Ganjam",
+                  "stopDescription": "Asika NAC,Ganjam",
+                  "stopSequence": 1,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "18:25",
+                  "departureTime": "18:35"
+                },
+                {
+                  "stopId": "GM100176",
+                  "stopName": "BHANJANAGAR",
+                  "district": "Ganjam",
+                  "stopDescription": "Bhanjanagar NAC,Ganjam",
+                  "stopSequence": 2,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "19:30",
+                  "departureTime": "19:40"
+                },
+                {
+                  "stopId": "KM100164",
+                  "stopName": "KALINGA",
+                  "district": "Kandhamal",
+                  "stopDescription": "G.Udayagiri,Kandhamal",
+                  "stopSequence": 3,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "20:40",
+                  "departureTime": "20:45"
+                },
+                {
+                  "stopId": "KM100247",
+                  "stopName": "TIKABALI",
+                  "district": "Kandhamal",
+                  "stopDescription": "Tikabali,Kandhamal",
+                  "stopSequence": 4,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "21:15",
+                  "departureTime": "21:20"
+                },
+                {
+                  "stopId": "KM100213",
+                  "stopName": "PHULABANI",
+                  "district": "Kandhamal",
+                  "stopDescription": "Phulbani NAC,Kandhamal",
+                  "stopSequence": 5,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "22:15",
+                  "departureTime": "22:35"
+                },
+                {
+                  "stopId": "BD100116",
+                  "stopName": "BOUDH",
+                  "district": "Boudh",
+                  "stopDescription": "Boudh NAC,Boudh",
+                  "stopSequence": 6,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "00:15",
+                  "departureTime": "00:25"
+                },
+                {
+                  "stopId": "AG100136",
+                  "stopName": "KIAKATA",
+                  "district": "Angul",
+                  "stopDescription": "Athamallik,Angul",
+                  "stopSequence": 7,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "00:35",
+                  "departureTime": "00:45"
+                },
+                {
+                  "stopId": "SP100239",
+                  "stopName": "RAIRAKHOL",
+                  "district": "Sambalpur",
+                  "stopDescription": "Redhakhol NAC,Sambalpur",
+                  "stopSequence": 8,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "01:15",
+                  "departureTime": "01:20"
+                },
+                {
+                  "stopId": "SP100260",
+                  "stopName": "SAMBALPUR",
+                  "district": "Sambalpur",
+                  "stopDescription": "Sambalpur (M),Sambalpur",
+                  "stopSequence": 9,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "02:35",
+                  "departureTime": "02:45"
+                },
+                {
+                  "stopId": "JG100128",
+                  "stopName": "JHARSUGUDA",
+                  "district": "Jharsuguda",
+                  "stopDescription": "Jharsuguda (M),Jharsuguda",
+                  "stopSequence": 10,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "03:45",
+                  "departureTime": "03:50"
+                },
+                {
+                  "stopId": "SG100454",
+                  "stopName": "SUNDARGARH",
+                  "district": "Sundargarh",
+                  "stopDescription": "Sundargarh (M),Sundargarh",
+                  "stopSequence": 11,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "04:35",
+                  "departureTime": "04:45"
+                },
+                {
+                  "stopId": "SG100427",
+                  "stopName": "ROURKELA",
+                  "district": "Sundargarh",
+                  "stopDescription": "Rourkela (M),Sundargarh",
+                  "stopSequence": 12,
+                  "type": "Bus Stand",
+                  "location": null,
+                  "arrivalTime": "07:20",
+                  "departureTime": "00:00"
+                }
+              ],
+              "daysOfService": null,
+              "category": null,
+              "seats": [],
+              "fare": 0,
+              "status": "NA"
+            }
+          ]
+        }
+      ],
+      "seatLayout": null,
+      "active": false,
+      "verified": false,
+      "busImage": null,
+      "daysOfService": null
+    }
+  
+  ],
+ "routes":[{
+  "routeId": "rt10102",
+  "routeName": "Gona To Jeypore",
+  "arrivalTime": "00:00",
+  "departureTime": "00:00",
+  "distance": 0,
+  "fare": 0,
+  "origin": {
+    "stopId": "NP100164",
+    "stopName": "Nabarangpur",
+    "district": "Raighar,Nabarangpur",
+    "stopDescription": "Gona",
+    "stopSequence": 0,
+    "type": "Bus Stand",
+    "location": null,
+    "arrivalTime": "00:00",
+    "departureTime": "00:00"
+  },
+  "destination": {
+    "stopId": "KT100134",
+    "stopName": "Koraput",
+    "district": "Jaypur (M),Koraput",
+    "stopDescription": "Jeypore",
+    "stopSequence": 0,
+    "type": "Bus Stand",
+    "location": null,
+    "arrivalTime": "00:00",
+    "departureTime": "00:00"
+  },
+  "trips": []
+},
+{
+  "routeId": "rt10103",
+  "routeName": "Tumba To Berhampur Via Jarada Patrapur Surangi Nuapada Digapahandi And Back",
+  "arrivalTime": "00:00",
+  "departureTime": "00:00",
+  "distance": 0,
+  "fare": 0,
+  "origin": {
+    "stopId": "GM100367",
+    "stopName": "Ganjam",
+    "district": "Patrapur,Ganjam",
+    "stopDescription": "Tumba",
+    "stopSequence": 0,
+    "type": "Bus Stand",
+    "location": null,
+    "arrivalTime": "00:00",
+    "departureTime": "00:00"
+  },
+  "destination": {
+    "stopId": "KT100134",
+    "stopName": "Koraput",
+    "district": "Jaypur (M),Koraput",
+    "stopDescription": "Jeypore",
+    "stopSequence": 0,
+    "type": "Bus Stand",
+    "location": null,
+    "arrivalTime": "00:00",
+    "departureTime": "00:00"
+  },
+  "trips": []
+},
+{
+  "routeId": "rt10104",
+  "routeName": "Paralakhemundi To Gunupur Via. Kasinagar & Back",
+  "arrivalTime": "00:00",
+  "departureTime": "00:00",
+  "distance": 0,
+  "fare": 0,
+  "origin": {
+    "stopId": "GP100159",
+    "stopName": "Gajapati",
+    "district": "Parlakhemundi (M),Gajapati",
+    "stopDescription": "Paralakhemundi",
+    "stopSequence": 0,
+    "type": "Bus Stand",
+    "location": null,
+    "arrivalTime": "00:00",
+    "departureTime": "00:00"
+  },
+  "destination": {
+    "stopId": "KT100134",
+    "stopName": "Koraput",
+    "district": "Jaypur (M),Koraput",
+    "stopDescription": "Jeypore",
+    "stopSequence": 0,
+    "type": "Bus Stand",
+    "location": null,
+    "arrivalTime": "00:00",
+    "departureTime": "00:00"
+  },
+  "trips": []
+}],
+  "stops":[{
+      "stopId": "GM100147",
+      "stopName": "1st Gate Bam",
+      "district": "Ganjam",
+      "stopDescription": "Berhampur (MC),Ganjam",
+      "stopSequence": 0,
+      "type": "Bus Stand",
+      "location": null,
+      "arrivalTime": "00:00",
+      "departureTime": "00:00"
+    },
+    {
+      "stopId": "GM100382",
+      "stopName": "A Barida",
+      "district": "Ganjam",
+      "stopDescription": "Purusottampur,Ganjam",
+      "stopSequence": 0,
+      "type": "Bus Stand",
+      "location": null,
+      "arrivalTime": "00:00",
+      "departureTime": "00:00"
+    },
+    {
+      "stopId": "CT100143",
+      "stopName": "A D Nagar",
+      "district": "Cuttack",
+      "stopDescription": "Cuttack (MC),Cuttack",
+      "stopSequence": 0,
+      "type": "Bus Stand",
+      "location": null,
+      "arrivalTime": "00:00",
+      "departureTime": "00:00"
+    }]
+}
